@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "strict": true,
+    "resolveJsonModule": true,     // ✅ Enables importing JSON files
+    "esModuleInterop": true        // ✅ Allows default imports from JSON
+  }
+}
