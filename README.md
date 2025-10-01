@@ -1,7 +1,6 @@
 # ⏰ TimeSync
 
 **TimeSync** is a lightweight TypeScript + JavaScript utility that displays the current local and UTC time in the terminal. Designed for clarity, speed, and modularity — no CRUD, no clutter.
-
 ---
 
 ## 📦 Features
@@ -11,7 +10,6 @@
 - Clean modular structure with TypeScript and JSON
 - No delete/update logic — pure read-only utility
 - Ready for GitHub presentation and terminal execution
-
 ---
 
 ## 🚀 Quick Start
